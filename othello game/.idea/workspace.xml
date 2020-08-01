@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d045c461-80ff-4a28-9aaa-6baea8e2f60f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Othello/com/company/Bot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Othello/com/company/Bot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Othello/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Othello/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Othello/com/company/PlayGround.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Othello/com/company/PlayGround.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Othello/com/company/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Othello/com/company/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zj4hlk4ucBOItITGVaMGzFSZmq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Othello" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d045c461-80ff-4a28-9aaa-6baea8e2f60f" name="Default Changelist" comment="" />
+      <created>1585339291169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585339291169</updated>
+      <workItem from="1585339295370" duration="5087000" />
+      <workItem from="1585381521820" duration="34843000" />
+      <workItem from="1585467471914" duration="15131000" />
+      <workItem from="1585487444799" duration="15017000" />
+      <workItem from="1585558702258" duration="125000" />
+      <workItem from="1586030416589" duration="2692000" />
+      <workItem from="1586073816759" duration="15781000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1585477953103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585477953103" />
+    <state x="565" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586030424130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1586030424130" />
+    <state x="512" y="112" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586090998964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="112" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1586090998964" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1586090997770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586090997770" />
+    <state width="1493" height="696" key="GridCell.Tab.0.bottom" timestamp="1586091007200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586091007200" />
+    <state width="1493" height="696" key="GridCell.Tab.0.center" timestamp="1586091007200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="696" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586091007200" />
+    <state width="1493" height="696" key="GridCell.Tab.0.left" timestamp="1586091007200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="696" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586091007200" />
+    <state width="1493" height="696" key="GridCell.Tab.0.right" timestamp="1586091007200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="696" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586091007200" />
+    <state width="1385" height="680" key="GridCell.Tab.1.bottom" timestamp="1585500933716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1385" height="680" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585500933716" />
+    <state width="1385" height="680" key="GridCell.Tab.1.center" timestamp="1585500933716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1385" height="680" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585500933716" />
+    <state width="1385" height="680" key="GridCell.Tab.1.left" timestamp="1585500933716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1385" height="680" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585500933716" />
+    <state width="1385" height="680" key="GridCell.Tab.1.right" timestamp="1585500933716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1385" height="680" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585500933716" />
+    <state x="499" y="157" key="extract.method.dialog" timestamp="1585470882820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="157" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1585470882820" />
+    <state x="163" y="0" key="new project wizard" timestamp="1585558822884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="163" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585558822884" />
+  </component>
+</project>
